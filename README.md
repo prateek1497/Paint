@@ -1,2 +1,2 @@
 # Paint
-A simple drawing tool
+A simple drawing tool build using java Swings
